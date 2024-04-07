@@ -1,0 +1,871 @@
+[
+  {
+    "megaMenu": false,
+    "megaMenuWithSub": true,
+    "title": "โคมไฟภายใน",
+    "id": 1,
+    "child": [
+      {
+        "id": 2,
+        "title": "โคมไฟ LED ติดเพดาน",
+        "url": "/category/2",
+        "child": [
+          {
+            "id": 3,
+            "title": "โคมไฟดาวไลน์LED",
+            "url": "/category/3",
+            "child": [
+              {
+                "id": 4,
+                "title": "โคมไฟติดลอยพร้อมLED",
+                "url": "/category/4",
+                "child": [
+                  {
+                    "id": 135,
+                    "title": "โคมไฟติดลอยพร้อมLED แบบDim",
+                    "url": "/category/135",
+                    "child": []
+                  },
+                  {
+                    "id": 136,
+                    "title": "โคมไฟติดลอยพร้อมLED แบบNon-Dim",
+                    "url": "/category/136",
+                    "child": []
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "title": "โคมไฟฝังฝ้าพร้อมLED",
+                "url": "/category/5",
+                "child": [
+                  {
+                    "id": 137,
+                    "title": "โคมไฟฝังฝ้าพร้อมLED แบบDim",
+                    "url": "/category/137",
+                    "child": []
+                  },
+                  {
+                    "id": 138,
+                    "title": "โคมไฟฝังฝ้าพร้อมLED แบบNon-Dim",
+                    "url": "/category/138",
+                    "child": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "title": "โคมไฟพาแนลไลท์LED",
+            "url": "/category/7",
+            "child": [
+              {
+                "id": 8,
+                "title": "โคมไฟพาแนลไลท์ฝังฝ้าLED",
+                "url": "/category/8",
+                "child": []
+              },
+              {
+                "id": 9,
+                "title": "โคมไฟพาแนลไลท์ติดลอยLED",
+                "url": "/category/9",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "title": "โคมไฟแขวนเพดานLED",
+            "url": "/category/10",
+            "child": [
+              {
+                "id": 11,
+                "title": "โคมไฟแขวนเพดานLED",
+                "url": "/category/11",
+                "child": []
+              },
+              {
+                "id": 12,
+                "title": "โคมไฟตกแต่งLED",
+                "url": "/category/12",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "title": "โคมไฟซาลาเปาLED",
+            "url": "/category/13",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "โคมเปล่า LED ภายใน",
+        "url": "/category/14",
+        "child": [
+          {
+            "id": 15,
+            "title": "โคมเปล่าภายในแบบฝังฝ้าLED",
+            "url": "/category/15",
+            "child": [
+              {
+                "id": 16,
+                "title": "โคมเปล่าภายในแบบฝังฝ้า หลอดขั้วE27",
+                "url": "/category/16",
+                "child": []
+              },
+              {
+                "id": 17,
+                "title": "โคมเปล่าภายในแบบฝังฝ้า หลอดAR111",
+                "url": "/category/17",
+                "child": []
+              },
+              {
+                "id": 18,
+                "title": "โคมเปล่าภายในแบบฝังฝ้า หลอดMR16",
+                "url": "/category/18",
+                "child": []
+              },
+              {
+                "id": 19,
+                "title": "โคมเปล่าภายในแบบฝังฝ้า หลอดT8",
+                "url": "/category/19",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "title": "โคมเปล่าภายในแบบติดลอยLED",
+            "url": "/category/20",
+            "child": [
+              {
+                "id": 21,
+                "title": "โคมเปล่าภายในแบบติดลอย หลอดขั้วE27",
+                "url": "/category/21",
+                "child": []
+              },
+              {
+                "id": 22,
+                "title": "โคมเปล่าภายในแบบติดลอย หลอดAR111",
+                "url": "/category/22",
+                "child": []
+              },
+              {
+                "id": 23,
+                "title": "โคมเปล่าภายในแบบติดลอย หลอดMR16",
+                "url": "/category/23",
+                "child": []
+              },
+              {
+                "id": 24,
+                "title": "โคมเปล่าภายในแบบติดลอย หลอดT8",
+                "url": "/category/24",
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "title": "โคมไฟ LED ติดผนังภายใน",
+        "url": "/category/25",
+        "child": [
+          {
+            "id": 26,
+            "title": "โคมไฟ LED ติดผนังแบบฝัง",
+            "url": "/category/26",
+            "child": []
+          },
+          {
+            "id": 27,
+            "title": "โคมไฟ LED ติดผนังแบบติดลอย",
+            "url": "/category/27",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "title": "ไฟทางเดินภายใน",
+        "url": "/category/28",
+        "child": [
+          {
+            "id": 29,
+            "title": "ไฟทางเดินภายใน LED",
+            "url": "/category/29",
+            "child": []
+          },
+          {
+            "id": 30,
+            "title": "ไฟทางเดินภายใน LED แบบมีเซนเซอร์",
+            "url": "/category/30",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "title": "หลอดไฟ LED",
+        "url": "/category/31",
+        "child": [
+          {
+            "id": 32,
+            "title": "หลอดไฟ LED Bulb",
+            "url": "/category/32",
+            "child": []
+          },
+          {
+            "id": 33,
+            "title": "หลอดไฟ LED MR16",
+            "url": "/category/33",
+            "child": []
+          },
+          {
+            "id": 34,
+            "title": "หลอดไฟ LED AR111",
+            "url": "/category/34",
+            "child": []
+          },
+          {
+            "id": 35,
+            "title": "หลอดไฟ LED MR11",
+            "url": "/category/35",
+            "child": []
+          },
+          {
+            "id": 36,
+            "title": "หลอดไฟ LED Capsule",
+            "url": "/category/36",
+            "child": []
+          },
+          {
+            "id": 37,
+            "title": "หลอดไฟLED แบบโมดูล",
+            "url": "/category/37",
+            "child": []
+          },
+          {
+            "id": 38,
+            "title": "หลอดไฟ LED PAR",
+            "url": "/category/38",
+            "child": [
+              {
+                "id": 39,
+                "title": "หลอดไฟ LED PAR 20",
+                "url": "/category/39",
+                "child": []
+              },
+              {
+                "id": 40,
+                "title": "หลอดไฟ LED PAR 30",
+                "url": "/category/40",
+                "child": []
+              },
+              {
+                "id": 41,
+                "title": "หลอดไฟ LED PAR 38",
+                "url": "/category/41",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "title": "หลอดไฟ LED Tube Light",
+            "url": "/category/42",
+            "child": [
+              {
+                "id": 43,
+                "title": "หลอดไฟ LED PAR T8",
+                "url": "/category/43",
+                "child": []
+              },
+              {
+                "id": 44,
+                "title": "หลอดไฟ LED PAR T5",
+                "url": "/category/44",
+                "child": []
+              },
+              {
+                "id": 45,
+                "title": "ชุดรางไฟ LED T8",
+                "url": "/category/45",
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "title": "ไฟเส้น LED",
+        "url": "/category/46",
+        "child": [
+          {
+            "id": 47,
+            "title": "ไฟLEDนีออนเฟล็ค",
+            "url": "/category/47",
+            "child": []
+          },
+          {
+            "id": 48,
+            "title": "ไฟเส้น LED",
+            "url": "/category/48",
+            "child": [
+              {
+                "id": 49,
+                "title": "ไฟเส้น LED SMD",
+                "url": "/category/49",
+                "child": []
+              },
+              {
+                "id": 50,
+                "title": "ไฟเส้น LED COB",
+                "url": "/category/50",
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "title": "โคมไฟแทรคไลท์ LED",
+        "url": "/category/51",
+        "child": [
+          {
+            "id": 52,
+            "title": "โคมเปล่าไฟแทรคไลท์LED",
+            "url": "/category/52",
+            "child": [
+              {
+                "id": 53,
+                "title": "โคมเปล่าไฟแทรคไลท์ ขั้วE27",
+                "url": "/category/53",
+                "child": []
+              },
+              {
+                "id": 54,
+                "title": "โคมเปล่าไฟแทรคไลท์ หลอดMR16",
+                "url": "/category/54",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "title": "โคมไฟแทรคไลท์LED",
+            "url": "/category/55",
+            "child": [
+              {
+                "id": 56,
+                "title": "โคมไฟแทรคไลท์ ขั้วE27",
+                "url": "/category/56",
+                "child": []
+              },
+              {
+                "id": 57,
+                "title": "โคมไฟแทรคไลท์ หลอดMR16",
+                "url": "/category/57",
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "title": "ราง LED",
+        "url": "/category/58",
+        "child": [
+          {
+            "id": 59,
+            "title": "รางไฟเส้นLED",
+            "url": "/category/59",
+            "child": []
+          },
+          {
+            "id": 60,
+            "title": "รางไฟแทรคไลท์LED",
+            "url": "/category/60",
+            "child": []
+          },
+          {
+            "id": 61,
+            "title": "ราง Tube LED",
+            "url": "/category/61",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "title": "โคมไฟหัวเตียง LED",
+        "url": "/category/62",
+        "child": []
+      },
+      {
+        "id": 63,
+        "title": "โคมไฟไฮเบย์ LED",
+        "url": "/category/63",
+        "child": []
+      }
+    ],
+    "url": "/category/1"
+  },
+  {
+    "megaMenu": false,
+    "megaMenuWithSub": true,
+    "title": "โคมไฟภายนอก",
+    "id": 64,
+    "child": [
+      {
+        "id": 65,
+        "title": "โคมไฟ LED ติดผนังภายนอก",
+        "url": "/category/65",
+        "child": [
+          {
+            "id": 66,
+            "title": "โคมไฟ LED ติดผนัง",
+            "url": "/category/66",
+            "child": [
+              {
+                "id": 67,
+                "title": "โคมไฟ LED ติดผนังแบบฝัง",
+                "url": "/category/67",
+                "child": []
+              },
+              {
+                "id": 68,
+                "title": "โคมไฟ LED ติดผนังแบบติดลอย",
+                "url": "/category/68",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 69,
+            "title": "โคมไฟ LED หัวเสา",
+            "url": "/category/69",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "title": "โคมเปล่า LED ภายนอก",
+        "url": "/category/70",
+        "child": [
+          {
+            "id": 71,
+            "title": "โคมเปล่าภายนอกแบบฝังฝ้า LED",
+            "url": "/category/71",
+            "child": [
+              {
+                "id": 72,
+                "title": "โคมเปล่าฝังฝ้า หลอดขั้วE27",
+                "url": "/category/72",
+                "child": []
+              },
+              {
+                "id": 73,
+                "title": "โคมเปล่าฝังฝ้า หลอดAR111",
+                "url": "/category/73",
+                "child": []
+              },
+              {
+                "id": 74,
+                "title": "โคมเปล่าฝังฝ้า หลอดMR16",
+                "url": "/category/74",
+                "child": []
+              },
+              {
+                "id": 75,
+                "title": "โคมเปล่าฝังฝ้า หลอดT8",
+                "url": "/category/75",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 76,
+            "title": "โคมเปล่าภายนอกแบบติดลอย LED",
+            "url": "/category/76",
+            "child": [
+              {
+                "id": 77,
+                "title": "โคมเปล่าฝังฝ้า หลอดขั้วE27",
+                "url": "/category/77",
+                "child": []
+              },
+              {
+                "id": 78,
+                "title": "โคมเปล่าฝังฝ้า หลอดAR111",
+                "url": "/category/78",
+                "child": []
+              },
+              {
+                "id": 79,
+                "title": "โคมเปล่าฝังฝ้า หลอดMR16",
+                "url": "/category/79",
+                "child": []
+              },
+              {
+                "id": 80,
+                "title": "โคมเปล่าฝังฝ้า หลอดT8",
+                "url": "/category/80",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 81,
+            "title": "โคมเปล่าส่องสวนปักดิน LED",
+            "url": "/category/81",
+            "child": [
+              {
+                "id": 82,
+                "title": "โคมเปล่าส่องสวนปักดิน ขั้วE27",
+                "url": "/category/82",
+                "child": []
+              },
+              {
+                "id": 83,
+                "title": "โคมเปล่าส่องสวนปักดิน หลอดMR16",
+                "url": "/category/83",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 84,
+            "title": "โคมเปล่าหัวเสา LED",
+            "url": "/category/84",
+            "child": []
+          },
+          {
+            "id": 85,
+            "title": "โคมเปล่าแบบกันน้ำกันฝุ่น LED",
+            "url": "/category/85",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "title": "ไฟเส้น LED กันน้ำ",
+        "url": "/category/86",
+        "child": [
+          {
+            "id": 87,
+            "title": "ไฟLEDนีออนเฟล็ค กันน้ำ",
+            "url": "/category/87",
+            "child": []
+          },
+          {
+            "id": 88,
+            "title": "ไฟเส้น LED กันน้ำ",
+            "url": "/category/88",
+            "child": [
+              {
+                "id": 89,
+                "title": "ไฟเส้นLED กันน้ำ SMD",
+                "url": "/category/89",
+                "child": []
+              },
+              {
+                "id": 90,
+                "title": "ไฟเส้นLED กันน้ำ COB",
+                "url": "/category/90",
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "title": "ไฟทางเดินภายนอก LED",
+        "url": "/category/91",
+        "child": [
+          {
+            "id": 92,
+            "title": "ไฟทางเดินภายนอก LED",
+            "url": "/category/92",
+            "child": []
+          },
+          {
+            "id": 93,
+            "title": "ไฟทางเดินภายนอก LED แบบมีเซนเซอร์",
+            "url": "/category/93",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "title": "โคมไฟแต่งสวนLED",
+        "url": "/category/94",
+        "child": [
+          {
+            "id": 95,
+            "title": "โคมไฟส่องสวนยึดพื้นLED",
+            "url": "/category/95",
+            "child": []
+          },
+          {
+            "id": 96,
+            "title": "โคมไฟส่องสวนปักดินLED",
+            "url": "/category/96",
+            "child": []
+          },
+          {
+            "id": 97,
+            "title": "โคมไฟสนามLED",
+            "url": "/category/97",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "title": "โคมไฟพลังงานแสงอาทิตย์",
+        "url": "/category/98",
+        "child": [
+          {
+            "id": 99,
+            "title": "โคมไฟส่องสวนโซล่าเซลล์",
+            "url": "/category/99",
+            "child": []
+          },
+          {
+            "id": 100,
+            "title": "โคมไฟสนามโซล่าเซลล์",
+            "url": "/category/100",
+            "child": []
+          },
+          {
+            "id": 101,
+            "title": "โคมไฟสปอร์ตไลท์โซล่าเซลล์",
+            "url": "/category/101",
+            "child": []
+          },
+          {
+            "id": 102,
+            "title": "โคมไฟถนนโซล่าเซลล์",
+            "url": "/category/102",
+            "child": []
+          },
+          {
+            "id": 103,
+            "title": "โคมไฟติดผนังโซล่าเซลล์",
+            "url": "/category/103",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "title": "ไฟฝังพื้นLED",
+        "url": "/category/104",
+        "child": []
+      },
+      {
+        "id": 105,
+        "title": "โคมไฟถนน LED",
+        "url": "/category/105",
+        "child": []
+      },
+      {
+        "id": 106,
+        "title": "โคมไฟฟลัดไลท์ LED",
+        "url": "/category/106",
+        "child": []
+      },
+      {
+        "id": 107,
+        "title": "โคมไฟไฮแมส LED",
+        "url": "/category/107",
+        "child": []
+      }
+    ],
+    "url": "/category/64"
+  },
+  {
+    "megaMenu": false,
+    "megaMenuWithSub": true,
+    "title": "Accessories light",
+    "id": 108,
+    "child": [
+      {
+        "id": 109,
+        "title": "ไฟเฟอร์นิเจอร์ LED",
+        "url": "/category/109",
+        "child": [
+          {
+            "id": 110,
+            "title": "หม้อแปลงไฟเฟอร์",
+            "url": "/category/110",
+            "child": [
+              {
+                "id": 111,
+                "title": "หม้อแปลงไฟ 12V",
+                "url": "/category/111",
+                "child": []
+              },
+              {
+                "id": 112,
+                "title": "หม้อแปลงไฟ 24V",
+                "url": "/category/112",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 113,
+            "title": "เซ็นเซอร์",
+            "url": "/category/113",
+            "child": []
+          },
+          {
+            "id": 114,
+            "title": "ปลั๊กข้อต่อพร้อมสายไฟ",
+            "url": "/category/114",
+            "child": []
+          },
+          {
+            "id": 115,
+            "title": "ข้อต่อกลางไฟเส้น",
+            "url": "/category/115",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 116,
+        "title": "ปลั๊ก&สวิตซ์",
+        "url": "/category/116",
+        "child": [
+          {
+            "id": 117,
+            "title": "หม้อแปลงไฟ",
+            "url": "/category/117",
+            "child": [
+              {
+                "id": 118,
+                "title": "หม้อแปลงไฟ Triac",
+                "url": "/category/118",
+                "child": []
+              },
+              {
+                "id": 119,
+                "title": "หม้อแปลงไฟ 0-10V",
+                "url": "/category/119",
+                "child": []
+              },
+              {
+                "id": 120,
+                "title": "หม้อแปลงไฟ 12V",
+                "url": "/category/120",
+                "child": []
+              },
+              {
+                "id": 121,
+                "title": "หม้อแปลงไฟ 24V",
+                "url": "/category/121",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 122,
+            "title": "คอนโทรลเลอร์",
+            "url": "/category/122",
+            "child": [
+              {
+                "id": 123,
+                "title": "คอนโทรลเลอร์ DMX RGB",
+                "url": "/category/123",
+                "child": []
+              },
+              {
+                "id": 124,
+                "title": "คอนโทรลเลอร์ 0-10",
+                "url": "/category/124",
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 125,
+            "title": "บล็อก สวิตซ์",
+            "url": "/category/125",
+            "child": []
+          },
+          {
+            "id": 126,
+            "title": "เต้ารับ",
+            "url": "/category/126",
+            "child": []
+          },
+          {
+            "id": 127,
+            "title": "สวิตซ์ แท่นชาร์จไร้สาย",
+            "url": "/category/127",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 128,
+        "title": "สวิตซ์ คอนโทรล",
+        "url": "/category/128",
+        "child": [
+          {
+            "id": 129,
+            "title": "อุปกรณ์หรี่ไฟ Triac",
+            "url": "/category/129",
+            "child": []
+          },
+          {
+            "id": 130,
+            "title": "อุปกรณ์หรี่ไฟ 0-10V",
+            "url": "/category/130",
+            "child": []
+          },
+          {
+            "id": 131,
+            "title": "อุปกรณ์หรี่ไฟ RGB",
+            "url": "/category/131",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": 132,
+        "title": "สมาร์ทโฮม",
+        "url": "/category/132",
+        "child": [
+          {
+            "id": 133,
+            "title": "แม่กุญแจ",
+            "url": "/category/133",
+            "child": []
+          },
+          {
+            "id": 134,
+            "title": "กลอนประตูดิจิตอล",
+            "url": "/category/134",
+            "child": []
+          }
+        ]
+      }
+    ],
+    "url": "/category/108"
+  }
+]
