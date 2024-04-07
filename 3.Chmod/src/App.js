@@ -20,22 +20,47 @@ export default function App() {
 const Chmod = (props) => {
     const { permission, answer } = props;
 
-    function convert(permission) {
-        let result = 0;
+    function convert(input) {
+        let result = '';
+        let numericResult = '';
 
-        for (let i = 0; i < permission.length; i++) {
-            const char = permission[i];
+        for (let i = 0; i < input.length; i++) {
+            const char = input[i];
+
             if (char === '-') {
-                result += 0;
+                numericResult += '0';
             } else if (char === 'r') {
-                result += 4;
+                numericResult += '4';
             } else if (char === 'w') {
-                result += 2;
+                numericResult += '2';
             } else if (char === 'x') {
-                result += 1;
+                numericResult += '1';
             }
         }
+        result = calculateResult(numericResult)
         return `${result} is ${answer === result ? 'true' : 'false'}`;
+    }
+
+    function calculateResult(numberString) {
+        let result = '';
+        let currentNumber = 0;
+        for (let i = 0; i < numberString.length; i++) {
+            if (numberString[i] !== "0") {
+                currentNumber += parseInt(numberString[i]);
+            } else {
+                if (currentNumber !== 0) {
+                    result += JSON.stringify(currentNumber);
+                    currentNumber = 0;
+                }
+            }
+
+            if (numberString.length - 1 === i) {
+                if (currentNumber !== 0) {
+                    result += JSON.stringify(currentNumber);
+                }
+            }
+        }
+        return result
     }
 
     return (
